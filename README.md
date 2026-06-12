@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shreya-verma-7034a8354?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> •
   <a href="mailto:itsv.shreya@gmail.com">Email</a> •
-  <a href="(https://github.com/shreyaverma5)">GitHub</a>
+  <a href="https://github.com/shreyaverma5">GitHub</a>
 </p>
 
 ---
